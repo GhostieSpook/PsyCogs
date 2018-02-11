@@ -4,7 +4,7 @@ import random
 import asyncio
 
 class Battleship:
-    """Play the old game called Battleship!"""
+    """Play Battleship with a friend or a foe!"""
 
     def __init__(self, bot):
         self.bot = bot
