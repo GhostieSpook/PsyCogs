@@ -1,5 +1,5 @@
 [![Discord Server](https://img.shields.io/badge/Discord%20Server-ShadowGaming-blue.svg)](https://discord.gg/WynfVgG) [![Build Status](https://travis-ci.org/PhantomGamer17/PsyCogs.svg?branch=master)](https://travis-ci.org/PhantomGamer17/PsyCogs)
-# PTSCogs
+# PsyCogs
 
 1. [Description](#description)
 2. [Installation](#installation)
@@ -335,11 +335,3 @@ The Useful cog needs the FFMpy library, install it with `pip3 install ffmpy`.
 [] Optional.
 
 [p] means prefix.
-
-## Assistance
-Need help? Have an idea for a new cog or a new command for any of the already existing cogs?
-Post an issue or contact me (PlanetTeamSpeak#4157) on 
-
-[The official Red - Discord Bot server](https://discord.gg/geqnqEP). Or
-
-[My server (Impulse Music)](https://discord.gg/tzsmCyk).
