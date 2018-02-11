@@ -1,4 +1,4 @@
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-Impulse-orange.svg)](https://discord.gg/tzsmCyk) [![Website](https://img.shields.io/badge/Website-impulsebot.co.nf-yellow.svg)](https://impulsebot.com) [![Build Status](https://travis-ci.org/PlanetTeamSpeakk/PTSCogs.svg?branch=master)](https://travis-ci.org/PlanetTeamSpeakk/PTSCogs)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-ShadowGaming-blue.svg)](https://discord.gg/WynfVgG) [![Build Status](https://travis-ci.org/PhantomGamer17/PsyCogs.svg?branch=master)](https://travis-ci.org/PhantomGamer17/PsyCogs)
 # PTSCogs
 
 1. [Description](#description)
